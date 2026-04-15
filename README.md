@@ -1,6 +1,6 @@
 # About me
 
-Hi, I’m Kermin. Product engineer and founder of [bimetrics](https://bimetrics.de/). I’m currently building [hybridpro.app](https://hybridpro.app).
+Hi, I’m Kermin. Product engineer and founder of [bimetrics](https://bimetrics.de/). 
 
 ## Previously
 
